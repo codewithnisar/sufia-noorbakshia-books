@@ -1,6 +1,6 @@
 # Sufia Noorbakshia Books Collection | مجموعہ کتب صوفیہ نوربخشیہ
 
-![Books Count](https://img.shields.io/badge/Books-45%20PDFs-green.svg)
+![Books Count](https://img.shields.io/badge/Books-48%20PDFs-green.svg)
 ![Git LFS](https://img.shields.io/badge/Git%20LFS-Enabled-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Complete%20Library-brightgreen.svg)
 
@@ -23,7 +23,7 @@ In this repository, you will find original PDF resources covering:
 
 ---
 
-## 📚 تمام شامل کتب کی فہرست (Complete Book List - 45 PDFs)
+## 📚 تمام شامل کتب کی فہرست (Complete Book List - 48 PDFs)
 
 | # | کتاب کا نام (اردو) | File Name | موضوع / تفصیل |
 |---|---|---|---|
@@ -72,6 +72,9 @@ In this repository, you will find original PDF resources covering:
 | 43 | **نمازِ صوفیہ** | `Namaz-e-Sofia.pdf` | طریقہ نماز و شرائطِ طہارت |
 | 44 | **نوربخشیہ (حالات و خدمات)** | `Noorbakhshia (Allaw ud Dawla Hassan Noorbakhsh).pdf` | علاء الدولة حسن نوربخش کے حالات |
 | 45 | **نوریہ** | `Nooriyah.pdf` | انوارِ طریقت |
+| 46 | **قصیدہ مبارکہ** | `QASIDA pdf.pdf` | قصائد، مناجات و ادعیہ |
+| 47 | **حیات و تعلیمات ولیِ مرشد** | `حیات و تعلیمات،ولئی مرشد.pdf` | سوانح و حیاتِ طیبہ بزرگان |
+| 48 | **خزینۃ البکاء** | `خزینتہ البکاء.pdf` | مراثی، مناقب و سوز و سلام |
 
 ---
 
@@ -96,6 +99,8 @@ In this repository, you will find original PDF resources covering:
 - `Risala Awradia.pdf` (رسالہ اورادیہ)
 - `Mushkil hal wa Hal Mushkil.pdf` (مشکل حل)
 - `sabaeen.pdf` (حدیث سبعین)
+- `QASIDA pdf.pdf` (قصیدہ مبارکہ)
+- `خزینتہ البکاء.pdf` (خزینۃ البکاء)
 
 ### 4. 🕯️ تصوف، سلوک و اخلاقیات (Mysticism & Sufism)
 - `mirsad ul ibad.pdf` (مرصاد العباد)
@@ -112,7 +117,7 @@ In this repository, you will find original PDF resources covering:
 - `Hifzane_Sehat.pdf` (حفظانِ صحت)
 - `Manamia.pdf` (منامیہ)
 
-### 5. 📜 بزرگانِ دین کے کلام و آثار (Works of Sufi Masters)
+### 5. 📜 بزرگانِ دین کے کلام، آثار و سوانح (Works & Biographies of Sufi Masters)
 - `Aasar-e-Shah Hamdan.pdf` (آثارِ شاہ ہمدان)
 - `risala shah hamdan.pdf` (رسائل شاہ ہمدان)
 - `Risala Hamdania.pdf` (رسالہ ہمدانیہ)
@@ -121,6 +126,7 @@ In this repository, you will find original PDF resources covering:
 - `simnani.pdf` (سلسلہ سمنانی)
 - `khulasatul manaqib.pdf` (خلاصة المناقب)
 - `sahifatulAwlia.pdf` (صحیفة الاولیاء)
+- `حیات و تعلیمات،ولئی مرشد.pdf` (حیات و تعلیمات ولیِ مرشد)
 
 ---
 
@@ -152,5 +158,5 @@ git lfs pull
 
 ---
 
-**آخری اپڈیٹ (Last Updated):** اگست 2026  
+**آخری اپڈیٹ (Last Updated):** ستمبر 2026  
 **Maintainer:** Sufia Noorbakshia Digital Library Project
